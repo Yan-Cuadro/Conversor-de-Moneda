@@ -21,5 +21,5 @@ https://github.com/YanCuadro/ConversorDeMoneda/assets/106443859/a5a0483c-5380-42
 
 ## Authors
 
-- [@YanCuadro](https://github.com/YanCuadro)
+- [@YanCuadro](https://github.com/Yan-Cuadro)
 
